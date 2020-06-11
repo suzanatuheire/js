@@ -1,0 +1,23 @@
+//  var money=1000,000shs;
+//  function getLoan(){"is money>5000,000shs"? "get a loan": "not accepted"};
+// console.log(money)
+ 
+ 
+//  or operator
+ var pets=("kitty", "popo")
+ function pets(){
+ var c=("kitty");
+ var d=("popo");
+ c=="kitty"||d=="popo"
+ }
+console.log(pets);
+ 
+ 
+var person = {
+  firstName:"shana",
+  lastName:"jo",
+  age:25,
+  
+};
+
+ console.log("deletefirstName")
